@@ -1,2 +1,2 @@
-# Portfolio-Bj-rn-Lagerblad
+# Portfolio-Bjorn-Lagerblad
 My portfolio and CV
