@@ -5,7 +5,7 @@
 
 * [Go to Projects](#projects-wip-section)
 
-* [Go to CV](#cv)
+* [Go to CV](#CV)
 
 * [Go to Contact me](#contact-me)
 
@@ -67,8 +67,7 @@ Or similar
 
 ---
 
-## 💼 Projects: WIP SECTION
-
+<h2 id="projects-wip-section">💼 Projects: WIP SECTION</h2>
 
 | Repository                     | Description                                                              |
 | ------------------------------ | ------------------------------------------------------------------------ |
@@ -82,13 +81,13 @@ Or similar
 ![xkcd](assets/good_code_xkcd.png)
 
 ---
-## 📓 CV
+<h2 id="CV">📓 CV</h2>
 
 ![CV](assets/BjörnLagerbladCV2024.png)
 
 ---
 
-### 🤝 Connect with me:
+<h2 id="contact-me">🤝 Connect with me</h2>
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
