@@ -56,14 +56,31 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 </table>
 
 ---
-
 ## 🔭 Roles I'm looking for:
 
-* Developer
-* Data scientist
-* Python developer
+| **Development Roles**   | **Data Science Roles**     | **Specialized Roles**          |
+|-------------------------|----------------------------|--------------------------------|
+| Developer               | Data Scientist             | AI Developer                   |
+| Python Developer        | Machine Learning Engineer   | Data Visualization Specialist   |
+| Full Stack Developer    | Data Engineer              | Research Scientist              |
+|                         | Business Analyst           | DevOps Engineer                 |
+|                         | Quantitative Analyst       | Software Engineer               |
 
-Or similar 
+---
+
+### 🌱 Eager to Learn:
+As a junior developer, I am excited about the journey ahead and eager to expand my knowledge in meaningful ways:
+
+- **Building Strong Foundations**: I am committed to mastering the core principles of programming and data science, setting a solid base for my future growth.
+
+- **Hands-On Learning**: I thrive on practical experience and am looking for opportunities to collaborate on projects where I can apply my skills and learn from others.
+
+- **Exploring New Technologies**: I’m enthusiastic about diving into emerging tools and techniques that can enhance my ability to solve problems and create impactful solutions.
+
+
+I believe that every challenge is a stepping stone to becoming a better developer, and I can’t wait to contribute my passion and energy to a dynamic team!
+
+
 
 ---
 
