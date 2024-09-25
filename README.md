@@ -69,14 +69,23 @@ Or similar
 
 <h2 id="projects-wip-section">💼 Projects: WIP SECTION</h2>
 
-| Repository                     | Description                                                              |
-| ------------------------------ | ------------------------------------------------------------------------ |
-| [Manim][manim]                 | Manim, Bézier curves, editing                                             |
-| [][]                           |  |
-| [][]                           |  |
-| [][]                           |  |
+<sub>Click on the links to view the corresponding GitHub repositories.</sub>
+
+| Repository | Description |
+| --- | --- |
+| [Manim][manim] | Manim animations, working with Bézier curves and design |
+| [Pandas][pandas] | Pandas data manipulation projects |
+| [Fullstack][fullstack] | Full-stack app with Streamlit and database integration |
+| [Data Science][data-science] | Exploratory data analysis and machine learning projects |
+| [Matplotlib][matplotlib] | Data visualization projects using Matplotlib |
+
 
 [manim]: https://github.com/Markofbear/ManimTraining
+[pandas]: #link
+[fullstack]: #link
+[data-science]: #link
+[matplotlib]: #link
+
 
 ![xkcd](assets/good_code_xkcd.png)
 
