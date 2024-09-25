@@ -39,19 +39,17 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
     <td>Data scientist</td>
     <td>Data analyst</td>
     <td>Business intelligence</td>
-  </tr>
-  <tr>
     <td>Machine learning</td>
-    <td>Deep learning</td>
-    <td>Computer vision</td>
   </tr>
   <tr>
     <td>Matplotlib</td>
+    <td>Deep learning</td>
+    <td>Computer vision</td>
     <td>Manim</td>
-    <td>Streamlit</td>
   </tr>
   <tr>
-    <td>DuckDB</td>
+     <td>DuckDB</td>
+    <td>Streamlit</td>
   </tr>
 </table>
 
