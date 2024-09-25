@@ -10,9 +10,9 @@
 * [Go to Contact me](#contact-me)
 
 ---
-## About me:
+## 🧑‍💼 About me:
 
-I am currently studying OOP programming with a focus on AI at NBI Handelsakademin. With experience in customer-facing roles, I’ve developed strong problem-solving and communication skills.
+I am currently studying OOP programming with a focus on AI and Data Science at NBI Handelsakademin. With experience in customer-facing roles, I’ve developed strong problem-solving and communication skills.
 
 Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective solutions and grow as a programmer.
 
@@ -20,7 +20,7 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 
 ---
 
-## Technical skills:
+## 🧑‍💻 Technical skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,20 +32,32 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-* Data scientist
-* Data analyst
-* Business intelligence
-* Machine learning
-* Deep learning
-* Computer vision
-* Matplotlib
-* Manim
-* Streamlit
-* DuckDB
+
+
+<table>
+  <tr>
+    <td>Data scientist</td>
+    <td>Data analyst</td>
+    <td>Business intelligence</td>
+  </tr>
+  <tr>
+    <td>Machine learning</td>
+    <td>Deep learning</td>
+    <td>Computer vision</td>
+  </tr>
+  <tr>
+    <td>Matplotlib</td>
+    <td>Manim</td>
+    <td>Streamlit</td>
+  </tr>
+  <tr>
+    <td>DuckDB</td>
+  </tr>
+</table>
 
 ---
 
-## Roles I'm looking for:
+## 🔭 Roles I'm looking for:
 
 * Developer
 * Data scientist
@@ -55,7 +67,8 @@ Or similar
 
 ---
 
-## Projects: WIP SECTION
+## 💼 Projects: WIP SECTION
+
 
 | Repository                     | Description                                                              |
 | ------------------------------ | ------------------------------------------------------------------------ |
@@ -69,7 +82,7 @@ Or similar
 ![xkcd](assets/good_code_xkcd.png)
 
 ---
-## CV
+## 📓 CV
 
 ![CV](assets/BjörnLagerbladCV2024.png)
 
