@@ -91,15 +91,14 @@ I believe that every challenge is a stepping stone to becoming a better develope
 | Repository | Description |
 | --- | --- |
 | [Manim][manim] | Manim animations, working with Bézier curves and design |
-| [Pandas][pandas] | Pandas data manipulation projects |
 | [Fullstack][fullstack] | Full-stack app with Streamlit and database integration |
 | [Data Science][data-science] | Exploratory data analysis and machine learning projects |
 | [Matplotlib][matplotlib] | Data visualization projects using Matplotlib |
-
+| [Pandas][pandas] | Pandas data manipulation projects |
 
 [manim]: https://github.com/Markofbear/ManimTraining
 [pandas]: #link
-[fullstack]: #link
+[fullstack]: https://bjornyoutubedata.streamlit.app/
 [data-science]: #link
 [matplotlib]: #link
 
