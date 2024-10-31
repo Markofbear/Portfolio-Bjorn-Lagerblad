@@ -108,7 +108,7 @@ I believe that every challenge is a stepping stone to becoming a better develope
 ---
 <h2 id="CV">📓 CV</h2>
 
-![CV](assets/BjörnLagerbladCV2024.png)
+![CV](assets/BjörnLagerbladCV.png)
 
 ---
 
