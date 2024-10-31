@@ -84,21 +84,21 @@ I believe that every challenge is a stepping stone to becoming a better develope
 
 ---
 
-<h2 id="projects-wip-section">💼 Projects: WIP SECTION</h2>
+<h2 id="projects-wip-section">💼 Projects: OBS! UNDER CONSTRUCTION !OBS</h2>
 
 <sub>Click on the links to view the corresponding GitHub repositories.</sub>
 
 | Repository | Description |
 | --- | --- |
-| [Manim][manim] | Manim animations, working with Bézier curves and design |
 | [Fullstack][fullstack] | Full-stack app with Streamlit and database integration |
+| [Manim][manim] | Manim animations, working with Bézier curves and design | 
 | [Data Science][data-science] | Exploratory data analysis and machine learning projects |
 | [Matplotlib][matplotlib] | Data visualization projects using Matplotlib |
 | [Pandas][pandas] | Pandas data manipulation projects |
 
 [manim]: https://github.com/Markofbear/ManimTraining
-[pandas]: #link
 [fullstack]: https://bjornyoutubedata.streamlit.app/
+[pandas]: #link
 [data-science]: #link
 [matplotlib]: #link
 
@@ -108,7 +108,7 @@ I believe that every challenge is a stepping stone to becoming a better develope
 ---
 <h2 id="CV">📓 CV</h2>
 
-![CV](assets/BjörnLagerbladCV.png)
+![CV](assets/BjornLagerbladCV.png)
 
 ---
 
@@ -116,6 +116,6 @@ I believe that every challenge is a stepping stone to becoming a better develope
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/bj%C3%B6rn-lagerblad-81890858/
+[linkedin]: https://www.linkedin.com/in/bjorn-lagerblad
 
 * [Back to top](#back-to-top)
