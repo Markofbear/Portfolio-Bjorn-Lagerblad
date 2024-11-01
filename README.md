@@ -3,11 +3,11 @@
 ![front](assets/frontcard.png)
 
 # Hi there, I'm Björn 👋
+* [Go to CV](#CV)
 
 
 * [Go to Projects](#projects-wip-section)
 
-* [Go to CV](#CV)
 
 * [Go to Contact me](#contact-me)
 
@@ -18,7 +18,10 @@ I am currently studying OOP programming with a focus on AI and Data Science at N
 
 Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective solutions and grow as a programmer.
 
+---
+<h2 id="CV">📓 CV</h2>
 
+![CV](assets/BjornLagerbladCV.png)
 
 ---
 
@@ -105,10 +108,6 @@ I believe that every challenge is a stepping stone to becoming a better develope
 
 ![xkcd](assets/good_code_xkcd.png)
 
----
-<h2 id="CV">📓 CV</h2>
-
-![CV](assets/BjornLagerbladCV.png)
 
 ---
 
