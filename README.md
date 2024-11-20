@@ -27,7 +27,7 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 * [Back to top](#back-to-top)
 
 ---
-<h2 id="Courses">🎓 Courses</h2>
+<h2 id="Courses">🎓 Courses @ NBI / Handelsakademin OOP23</h2>
 
 <table>
     <thead>
