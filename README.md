@@ -45,7 +45,6 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
     <tr>
         <td>Agile Project Management</td>
         <td><img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white>
-        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red"></td>
     </tr>
     <tr>
@@ -97,7 +96,7 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
+![SQL Badge](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=MySQL&logoColor=black)
 
 
 
