@@ -5,6 +5,7 @@
 # Hi there, I'm Björn 👋
 * [Go to CV](#CV)
 
+* [Go to  Courses](#Courses)
 
 * [Go to Projects](#projects-wip-section)
 
@@ -22,6 +23,67 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 <h2 id="CV">📓 CV</h2>
 
 ![CV](assets/BjornLagerbladCV.png)
+
+* [Back to top](#back-to-top)
+
+---
+<h2 id="Courses">🎓 Courses</h2>
+
+<table>
+    <thead>
+        <th>Courses</th>
+        <th>Language</th>
+    </thead>
+    <tr>
+        <td>Introduction to Object-oriented programming</td>
+        <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
+    </tr>
+    <tr>
+        <td>Object-oriented programming basics</td>
+        <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
+    </tr>
+    <tr>
+        <td>Agile Project Management</td>
+        <td><img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white>
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red"></td>
+    </tr>
+    <tr>
+        <td>Databases</td>
+        <td><img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
+    </tr>
+    <tr>
+        <td>Artificial intelligence 1</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+    </tr>
+    <tr>
+        <td>Artificial intelligence 2</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+    </tr>
+    <tr>
+        <td>Object-oriented programming advanced 1</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
+    </tr>
+    <tr>
+        <td>Internship 1 @AIgineer (🚧Ongoing🚧)</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+    </tr>
+    <tr>
+        <td>Object-oriented programming advanced 2</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+    </tr>
+    <tr>
+        <td>Thesis</td>
+        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+    </tr>
+    <tr>
+        <td>Internship 2 (This could be you!)</td>
+        <td></td>
+    </tr>
+</table>
+
+* [Back to top](#back-to-top)
 
 ---
 
@@ -58,6 +120,8 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
   </tr>
 </table>
 
+* [Back to top](#back-to-top)
+
 ---
 ## 🔭 Roles I'm looking for:
 
@@ -69,6 +133,8 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 |                         | Business Analyst           | DevOps Engineer                 |
 |                         | Quantitative Analyst       | Software Engineer               |
 
+
+* [Back to top](#back-to-top)
 ---
 
 ### 🌱 Eager to Learn:
@@ -84,7 +150,7 @@ As a junior developer, I am excited about the journey ahead and eager to expand 
 I believe that every challenge is a stepping stone to becoming a better developer, and I can’t wait to contribute my passion and energy to a dynamic team!
 
 
-
+* [Back to top](#back-to-top)
 ---
 
 <h2 id="projects-wip-section">💼 Projects: OBS! UNDER CONSTRUCTION !OBS</h2>
@@ -109,7 +175,7 @@ I believe that every challenge is a stepping stone to becoming a better develope
 
 ![xkcd](assets/good_code_xkcd.png)
 
-
+* [Back to top](#back-to-top)
 ---
 
 <h2 id="contact-me">🤝 Connect with me</h2>
