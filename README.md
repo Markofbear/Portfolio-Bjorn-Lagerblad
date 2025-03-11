@@ -44,43 +44,49 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
     </tr>
     <tr>
         <td>Agile Project Management</td>
-        <td><img alt="C#" src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white>
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red"></td>
+        <td>
+            <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+            <img alt="HTML" src="https://img.shields.io/badge/HTML-lightgreen?style=for-the-badge&color=red">
+        </td>
     </tr>
     <tr>
         <td>Databases</td>
-        <td><img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
+        <td><img alt="SQL" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
     </tr>
     <tr>
         <td>Artificial intelligence 1</td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
     </tr>
     <tr>
         <td>Artificial intelligence 2</td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 1</td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
-        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow"></td>
+        <td>
+            <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
+        </td>
     </tr>
     <tr>
-        <td>Internship 1 @AIgineer (🚧Ongoing🚧)</td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+        <td>Internship 1 @AIgineer</td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 2</td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
     </tr>
     <tr>
         <td>Thesis</td>
-        <td><img alt="Static Badge" src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
     </tr>
     <tr>
-        <td>Internship 2 (This could be you!)</td>
+        <td>Internship 2 @ AI Sweden</td>
         <td></td>
     </tr>
 </table>
+
+
 
 * [Back to top](#back-to-top)
 
@@ -158,6 +164,7 @@ I believe that every challenge is a stepping stone to becoming a better develope
 
 | Repository | Description |
 | --- | --- |
+| [Thesis][thesis] | Deep dive into Python automation and fullstack.  |
 | [Fullstack][fullstack] | Full-stack app with Streamlit and database integration |
 | [Manim][manim] | Manim animations, working with Bézier curves and design | 
 |🚧 ~~[Data Science][data-science]~~ | Exploratory data analysis and machine learning projects |
@@ -170,7 +177,7 @@ I believe that every challenge is a stepping stone to becoming a better develope
 [pandas]: #link
 [data-science]: #link
 [matplotlib]: #link
-
+[thesis]: https://github.com/Markofbear/Portfolio-Bjorn-Lagerblad
 
 ![xkcd](assets/good_code_xkcd.png)
 
