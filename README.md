@@ -177,7 +177,7 @@ I believe that every challenge is a stepping stone to becoming a better develope
 [pandas]: #link
 [data-science]: #link
 [matplotlib]: #link
-[thesis]: https://github.com/Markofbear/Portfolio-Bjorn-Lagerblad
+[thesis]: https://github.com/Markofbear/Degree_project
 
 ![xkcd](assets/good_code_xkcd.png)
 
