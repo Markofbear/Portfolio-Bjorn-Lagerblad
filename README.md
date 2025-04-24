@@ -3,6 +3,15 @@
 ![front](assets/frontcard.png)
 
 # Hi there, I'm Björn 👋
+
+<h2 id="contact-me">🤝 Connect with me</h2>
+
+- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/bjorn-lagerblad
+
+---
+
 * [Go to CV](#CV)
 
 * [Go to  Courses](#Courses)
@@ -103,6 +112,14 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-ffd500?style=for-the-badge&logo=duckduckgo&logoColor=black)
+![Manim](https://img.shields.io/badge/Manim-1f202c?style=for-the-badge&logo=manim&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=apachespark&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
 
@@ -111,17 +128,6 @@ Now, I’m eager to apply my knowledge in Python, SQL, and C# to build effective
     <td>Data scientist</td>
     <td>Data analyst</td>
     <td>Business intelligence</td>
-    <td>Machine learning</td>
-  </tr>
-  <tr>
-    <td>Matplotlib</td>
-    <td>Deep learning</td>
-    <td>Computer vision</td>
-    <td>Manim</td>
-  </tr>
-  <tr>
-     <td>DuckDB</td>
-    <td>Streamlit</td>
   </tr>
 </table>
 
