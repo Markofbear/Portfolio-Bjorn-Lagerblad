@@ -2,7 +2,8 @@
 
 ![front](assets/frontcard.png)
 
-# Hi there, I'm Björn 👋
+# Hi there, I'm Björn 👋![Profile views](https://komarev.com/ghpvc/?username=Markofbear)
+
 
 <h2 id="contact-me">🤝 Connect with me</h2>
 
