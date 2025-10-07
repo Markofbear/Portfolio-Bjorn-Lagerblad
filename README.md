@@ -1,6 +1,6 @@
 <h2 id="back-to-top">
 
-![front](assets/frontcard.png)
+![front](assets/frontcard2.png)
 ![Profile views](https://komarev.com/ghpvc/?username=Markofbear)
 
 # Hi there, I'm Björn 👋
