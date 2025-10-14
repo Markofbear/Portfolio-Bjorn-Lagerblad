@@ -60,16 +60,10 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+  <img alt="Data Scientist" src="https://img.shields.io/badge/Data%20Scientist-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="Data Analyst" src="https://img.shields.io/badge/Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white">
 
-
-
-<table>
-  <tr>
-    <td>Data scientist</td>
-    <td>Data analyst</td>
-    <td>Business intelligence</td>
-  </tr>
-</table>
 
 * [Back to top](#back-to-top)
 
