@@ -97,10 +97,10 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
 [matplotlib]: #link
 [thesis]: https://github.com/Markofbear/Degree_project
 [podcast]: https://github.com/Markofbear/Podcast-Generator
-![xkcd](assets/good_code_xkcd.png)
 
 * [Back to top](#back-to-top)
 
+---
 
 ## 🔭 Roles I’m Specialized Towards:
 
@@ -186,3 +186,5 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
 [linkedin]: https://www.linkedin.com/in/bjorn-lagerblad
 
 * [Back to top](#back-to-top)
+
+![xkcd](assets/good_code_xkcd.png)
