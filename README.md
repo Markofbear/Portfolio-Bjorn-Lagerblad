@@ -168,8 +168,10 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
     </tr>
     <tr>
         <td>Internship 2 @ AI Sweden</td>
-        <td></td>
-    </tr>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-lightgreen?style=for-the-badge&color=yellow">
+        <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">        
+        </td>    </tr>
 </table>
 
 
