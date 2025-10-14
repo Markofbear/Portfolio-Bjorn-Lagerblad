@@ -141,11 +141,12 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
     </tr>
     <tr>
         <td>Artificial intelligence 1</td>
-        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img alt="AI" src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white"></td>
     </tr>
     <tr>
         <td>Artificial intelligence 2</td>
-        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
+        <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img alt="AI" src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white"></td>
     </tr>
     <tr>
         <td>Object-oriented programming advanced 1</td>
