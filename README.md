@@ -82,7 +82,7 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
 
 | Repository | Description |
 | --- | --- |
-| [Podcast Generator][podcast]| Full-stack project that turns Wikipedia pages, PDFs, and TXT files into radio-style podcast dialogues with back-and-forth discussion and deeper breakdowns of the content. Built with PySide6, Gemini, and multiple TTS backends. Now with background music generated depending on whats read. [Demo video on LinkedIn](https://www.linkedin.com/posts/bjorn-lagerblad_opentowork-opentowork-python-activity-7328735576239603713-BCtP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAw8ppQBlF2AWJEGk7GuBtXNCKCC6DNZEBo). |
+| [Podcast Generator][podcast]|Full-stack AI project that transforms Wikipedia articles, PDFs, and text files into radio-style podcast dialogues with dynamic discussions and contextual deep-dives. Built with Python (PySide6, Gemini API, multi-TTS pipeline) and supports auto-generated background music that adapts to the topic’s tone. Recently added support for YouTube Closed Captions. [Demo video on LinkedIn](https://www.linkedin.com/posts/bjorn-lagerblad_opentowork-opentowork-python-activity-7328735576239603713-BCtP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAw8ppQBlF2AWJEGk7GuBtXNCKCC6DNZEBo). |
 | [Thesis][thesis] | Deep dive into Python automation and fullstack.  |
 | [Fullstack][fullstack] | Full-stack app with Streamlit and database integration |
 | [Manim][manim] | Manim animations, working with Bézier curves and design | 
@@ -102,7 +102,7 @@ I’m currently open to junior roles where I can contribute, keep learning, and 
 * [Back to top](#back-to-top)
 
 
-## 🔭 Roles I'm Open To:
+## 🔭 Roles I’m Specialized Towards:
 
 | **Development Roles**       | **Data Roles**               | **Specialized / Other**        |
 |-----------------------------|------------------------------|--------------------------------|
