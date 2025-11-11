@@ -32,6 +32,7 @@ Before diving into tech, I worked in customer-facing roles, which taught me how 
 I’m currently open to junior roles where I can contribute, keep learning, and build real-world impact.
 
 
+
 ---
 <h2 id="Resume">📓 Resume</h2>
 
