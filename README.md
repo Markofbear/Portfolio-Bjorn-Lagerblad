@@ -6,7 +6,7 @@
 # Hi there, I'm Björn 👋
 ### Fullstack Developer · AI
 
-I build and ship production software end to end, including real-time voice AI and RAG pipelines.
+I build and run software in production, including AI features.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Markofbear)
 
@@ -22,32 +22,46 @@ I build and ship production software end to end, including real-time voice AI an
 
 <h2 id="about-me">🧑‍💼 About me</h2>
 
-I'm a fullstack developer who builds and ships software end to end, from the frontend to the backend. In my most recent role, most of my work has been on the AI side, voice agents and chat assistants backed by RAG pipelines. I work in both TypeScript and Python, and I like learning new tools.
+Fullstack developer who builds and runs software in production, including AI features. I work as a consultant at Henrikssons Advice & Consulting, where I build and operate a production planning system for a client in the marine industry. Before that I built AI voice agents and RAG-based chat assistants at LeadCaller.
 
-Before I worked in tech, I spent years in hospitality. I came up through restaurants and bars, was given more responsibility and grew into the role until I was running a large part of a chain and training staff in customer service, stress management, and communication. I also started my own bar. It's where I learned most of what I know about people. I'm sociable, full of energy for the people I work with, and never far from a laugh. I know how much people gain from open communication and being able to have fun together.
+Before tech I spent many years in hospitality and worked my way up to managing a large part of a restaurant chain. I trained its staff in customer service, stress management and communication, and later started my own bar. I'm at ease talking to clients and management, and I keep calm when something breaks in production. I also bring energy and a good laugh to the teams I work in.
 
 ---
 <h2 id="experience">⭐ Experience</h2>
 
-### Fullstack Developer, LeadCaller (Communication One i Göteborg AB) · 2026
+### Fullstack Developer / Consultant, Henrikssons Advice & Consulting AB · 2026 to present
 
-- Delivered customer-facing features end to end on a live SaaS product, from the React/Remix UI down to serverless AWS (Lambda, DynamoDB, API Gateway), used daily by the sales team and customers.
-- Built a voice agent integrated with Twilio, using Deepgram for speech-to-text, OpenAI for reasoning, and ElevenLabs for natural speech.
-- Paired that with a RAG chat assistant that answers from each customer's own data, using embeddings and vector search (Qdrant, Pinecone) to keep answers grounded rather than guessed at.
-- Shipped dashboards with live statistics that became the team's analysis and sales tool, built in React/Remix and updated live over WebSockets.
-- Integrated Stripe payments (checkout and webhooks) and built an engine that sends customer email and SMS automatically, running serverless on AWS across PostgreSQL and DynamoDB.
-- Onboarded new customers, owned QA, and debugged production issues on a live system.
+Sole developer on a production planning system for a marine service company. It replaced whiteboard planning and has been in production since September 2026. I own everything from requirements to operations.
 
-<sub>Stack: TypeScript · Remix / React · Node · AWS serverless (SST / CDK) · DynamoDB · PostgreSQL · Redis · Qdrant / Pinecone.</sub>
+- Integrated with the client's existing work-order system over its REST API with a sync every 20 seconds, so staff kept their current routines.
+- Built real-time views for a break-room display, desktop and mobile. A change reaches every screen within one second.
+- Designed one controlled write layer to the client's system, with dry run by default and logging and rollback on every write path.
+- Analyzed about 8,000 work orders to decide which data the system could rely on, and caught an API issue that doubled every key figure.
+- Built a model that estimates job duration from historical time logs. Since jobs like lifting and painting depend on the weather, the plan also uses SMHI forecasts and warnings.
+- Deployed on site on a Raspberry Pi as a Linux service, with remote access over Tailscale and no open ports.
+- Advised management on feasibility and risk, delivered status reports, and flagged staff adoption early as the main risk.
+- Used Claude Code as an AI pair programmer under guardrails I defined, with end-to-end tests in Playwright. I review and commit every change myself.
 
-### Internship, AI Sweden · 2025
+<sub>Stack: Node.js · TypeScript · Hono · REST · Playwright · Linux · Tailscale.</sub>
 
-- Created an internal tool that pulled project reports from Neo4j and SQL, summarized them with Gemini, and wrote the summaries back, so the team could see where each project stood at a glance instead of reading full reports.
-- Designed and built the interface: view, edit and manage all project reports in one place.
+### Fullstack Developer, LeadCaller · 2026
 
-### Internship, AIgineer · 2024
+- Developed features for a live SaaS product in React/Remix on serverless AWS, used daily by the sales team and customers.
+- Built an AI voice agent that handles phone calls, using Twilio, Deepgram, OpenAI and ElevenLabs.
+- Built a RAG chat assistant that answers from each customer's own data, with vector search in Qdrant and Pinecone.
+- Built real-time sales dashboards over WebSockets.
+- Integrated Stripe payments and automated customer email and SMS.
+- Handled customer onboarding, QA and production support.
 
-- Built teaching animations in Manim (Bézier curves, motion design) in my first professional dev team, working with Git and an agile workflow.
+<sub>Stack: TypeScript · React / Remix · AWS Lambda · DynamoDB · PostgreSQL · Qdrant · Pinecone.</sub>
+
+### Intern, AI Sweden · 2025
+
+- Designed and built a tool that combines several project reports from Neo4j and SQL and uses Gemini to summarize them at different levels of a project, including the interface for reading and editing the summaries. AI Sweden adopted the concept and now runs its own version in production.
+
+### Intern, AIgineer · 2024
+
+- Created educational animations in Manim in my first development team, working with Git in an agile process.
 
 <sub>[↑ Back to top](#back-to-top)</sub>
 
@@ -64,7 +78,7 @@ Before I worked in tech, I spent years in hospitality. I came up through restaur
 
 </div>
 
-A full-stack AI desktop app (Python · PySide6) that extracts a source, has **Gemini** write multi-speaker dialogue, lets you **review and edit the script**, then voices it with swappable TTS (OpenAI · ElevenLabs · Google) and mixes in background music, all on a responsive, threaded GUI.
+A desktop app in Python and PySide6. It extracts the text from a source, has Gemini write a dialogue between several speakers, and lets you edit the script before it's voiced. You can pick OpenAI, ElevenLabs or Google for the voices, and it mixes in background music. The heavy work runs on background threads so the GUI stays responsive.
 
 **[▶ Watch the demo](https://www.linkedin.com/posts/bjorn-lagerblad_opentowork-opentowork-python-activity-7328735576239603713-BCtP)** · **[View code](https://github.com/Markofbear/Podcast-Generator)**
 
@@ -92,12 +106,16 @@ A full-stack AI desktop app (Python · PySide6) that extracts a source, has **Ge
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02Ljc2MyAxMC4wMzZxLjAwMi40NDYuMDg4LjcxYy4wNjQuMTc2LjE0NC4zNjguMjU2LjU3NmMuMDQuMDYzLjA1Ni4xMjcuMDU2LjE4M3EuMDAyLjEyLS4xNTIuMjRsLS41MDMuMzM1YS40LjQgMCAwIDEtLjIwOC4wNzJxLS4xMi0uMDAyLS4yMzktLjExMmEyLjUgMi41IDAgMCAxLS4yODctLjM3NWE2IDYgMCAwIDEtLjI0OC0uNDcxcS0uOTM0IDEuMTAxLTIuMzQ3IDEuMTAxYy0uNjcgMC0xLjIwNS0uMTkxLTEuNTk2LS41NzRxLS41ODgtLjU3NS0uNTktMS41MzNjMC0uNjc4LjIzOS0xLjIzLjcyNi0xLjY0NGMuNDg3LS40MTUgMS4xMzMtLjYyMyAxLjk1NS0uNjIzYy4yNzIgMCAuNTUxLjAyNC44NDYuMDY0Yy4yOTYuMDQuNi4xMDQuOTE4LjE3NnYtLjU4M3EtLjAwMS0uOTA5LS4zNzUtMS4yNzdjLS4yNTUtLjI0OC0uNjg2LS4zNjctMS4zLS4zNjdjLS4yOCAwLS41NjguMDMxLS44NjMuMTAzcS0uNDQzLjEwNi0uODYyLjI3MmEyIDIgMCAwIDEtLjI4LjEwNGEuNS41IDAgMCAxLS4xMjcuMDIzcS0uMTY4LjAwMi0uMTY4LS4yNDd2LS4zOTFjMC0uMTI4LjAxNi0uMjI0LjA1Ni0uMjhhLjYuNiAwIDAgMSAuMjI0LS4xNjdhNC42IDQuNiAwIDAgMSAxLjAwNS0uMzZhNC44IDQuOCAwIDAgMSAxLjI0Ni0uMTUxYy45NSAwIDEuNjQ0LjIxNiAyLjA5MS42NDdxLjY2LjY0NS42NjIgMS45NjN2Mi41ODZ6bS0zLjI0IDEuMjE0Yy4yNjMgMCAuNTM0LS4wNDguODIyLS4xNDRhMS44IDEuOCAwIDAgMCAuNzU4LS41MWExLjMgMS4zIDAgMCAwIC4yNzItLjUxMmMuMDQ3LS4xOTEuMDgtLjQyMy4wOC0uNjk0di0uMzM1YTcgNyAwIDAgMC0uNzM1LS4xMzZhNiA2IDAgMCAwLS43NS0uMDQ4Yy0uNTM1IDAtLjkyNi4xMDQtMS4xOS4zMmMtLjI2My4yMTUtLjM5LjUxOC0uMzkuOTE3YzAgLjM3NS4wOTUuNjU1LjI5NS44NDZjLjE5MS4yLjQ3LjI5Ni44MzguMjk2bTYuNDEuODYyYy0uMTQ0IDAtLjI0LS4wMjQtLjMwNC0uMDhjLS4wNjQtLjA0OC0uMTItLjE2LS4xNjgtLjMxMUw3LjU4NiA1LjU1YTEuNCAxLjQgMCAwIDEtLjA3Mi0uMzJjMC0uMTI4LjA2NC0uMi4xOTEtLjJoLjc4M3EuMjI3LS4wMDEuMzEuMDhjLjA2NS4wNDguMTEzLjE2LjE2LjMxMmwxLjM0MiA1LjI4NGwxLjI0NS01LjI4NHEuMDU4LS4yNC4xNTEtLjMxMmEuNTUuNTUgMCAwIDEgLjMyLS4wOGguNjM4Yy4xNTIgMCAuMjU2LjAyNS4zMi4wOGMuMDYzLjA0OC4xMi4xNi4xNTEuMzEybDEuMjYxIDUuMzQ4bDEuMzgxLTUuMzQ4cS4wNzQtLjI0LjE2LS4zMTJhLjUyLjUyIDAgMCAxIC4zMTEtLjA4aC43NDNjLjEyNyAwIC4yLjA2NS4yLjJjMCAuMDQtLjAwOS4wOC0uMDE3LjEyOGExIDEgMCAwIDEtLjA1Ni4ybC0xLjkyMyA2LjE3cS0uMDcyLjI0LS4xNjguMzExYS41LjUgMCAwIDEtLjMwMy4wOGgtLjY4N2MtLjE1MSAwLS4yNTUtLjAyNC0uMzItLjA4Yy0uMDYzLS4wNTYtLjExOS0uMTYtLjE1LS4zMmwtMS4yMzgtNS4xNDhsLTEuMjMgNS4xNGMtLjA0LjE2LS4wODcuMjY0LS4xNS4zMmMtLjA2NS4wNTYtLjE3Ny4wOC0uMzIuMDh6bTEwLjI1Ni4yMTVjLS40MTUgMC0uODMtLjA0OC0xLjIyOS0uMTQzYy0uMzk5LS4wOTYtLjcxLS4yLS45MTgtLjMyYy0uMTI4LS4wNzEtLjIxNS0uMTUxLS4yNDctLjIyM2EuNi42IDAgMCAxLS4wNDgtLjIyNHYtLjQwN2MwLS4xNjcuMDY0LS4yNDcuMTgzLS4yNDdxLjA3MiAwIC4xNDQuMDI0Yy4wNDguMDE2LjEyLjA0OC4yLjA4cS40MDguMTgxLjg3OC4yNzljLjMxOS4wNjQuNjMuMDk2Ljk1LjA5NmMuNTAyIDAgLjg5NC0uMDg4IDEuMTY1LS4yNjRhLjg2Ljg2IDAgMCAwIC40MTUtLjc1OGEuNzguNzggMCAwIDAtLjIxNS0uNTU5Yy0uMTQ0LS4xNTEtLjQxNi0uMjg3LS44MDctLjQxNWwtMS4xNTctLjM2Yy0uNTgzLS4xODMtMS4wMTQtLjQ1NC0xLjI3Ny0uODEzYTEuOSAxLjkgMCAwIDEtLjQtMS4xNThxMC0uNTAyLjIxNi0uODg2Yy4xNDQtLjI1NS4zMzUtLjQ3OS41NzUtLjY1NGMuMjQtLjE4NC41MS0uMzIuODMtLjQxNWMuMzItLjA5Ni42NTUtLjEzNiAxLjAwNi0uMTM2Yy4xNzUgMCAuMzU5LjAwOC41MzUuMDMyYy4xODMuMDI0LjM1LjA1Ni41MTguMDg4cS4yNC4wNTguNDU1LjEyN3EuMjE2LjA3Mi4zMzYuMTQ0YS43LjcgMCAwIDEgLjI0LjJhLjQzLjQzIDAgMCAxIC4wNzEuMjYzdi4zNzVxLS4wMDIuMjU0LS4xODQuMjU2YS44LjggMCAwIDEtLjMwMy0uMDk2YTMuNjUgMy42NSAwIDAgMC0xLjUzMi0uMzExYy0uNDU1IDAtLjgxNS4wNzEtMS4wNjIuMjIzcy0uMzc1LjM4My0uMzc1LjcxYzAgLjIyNC4wOC40MTYuMjQuNTY3Yy4xNTkuMTUyLjQ1NC4zMDQuODc3LjQ0bDEuMTM0LjM1OGMuNTc0LjE4NC45OS40NCAxLjIzNy43NjdzLjM2Ny43MDIuMzY3IDEuMTE3YzAgLjM0My0uMDcyLjY1NS0uMjA3LjkyNmEyLjIgMi4yIDAgMCAxLS41ODMuNzAzYy0uMjQ4LjItLjU0My4zNDMtLjg4Ni40NDdjLS4zNi4xMTEtLjczNC4xNjctMS4xNDIuMTY3bTEuNTA5IDMuODhjLTIuNjI2IDEuOTQtNi40NDIgMi45NjktOS43MjIgMi45NjljLTQuNTk4IDAtOC43NC0xLjctMTEuODctNC41MjZjLS4yNDctLjIyMy0uMDI0LS41MjcuMjcyLS4zNTFjMy4zODQgMS45NjMgNy41NTkgMy4xNTMgMTEuODc3IDMuMTUzYzIuOTE0IDAgNi4xMTQtLjYwNyA5LjA2LTEuODUyYy40MzktLjIuODE0LjI4Ny4zODMuNjA3bTEuMDk0LTEuMjQ2Yy0uMzM2LS40My0yLjIyLS4yMDctMy4wNzQtLjEwM2MtLjI1NS4wMzItLjI5NS0uMTkyLS4wNjMtLjM2YzEuNS0xLjA1MyAzLjk2Ny0uNzUgNC4yNTQtLjM5OWMuMjg3LjM2LS4wOCAyLjgyNi0xLjQ4NSA0LjAwN2MtLjIxNS4xODQtLjQyMy4wODgtLjMyNy0uMTUxYy4zMi0uNzkgMS4wMy0yLjU3LjY5NS0yLjk5NCIvPjwvc3ZnPg%3D%3D)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xNi42MDYgMjAuNzA1di0yLjM3MWMtMS4yNjMgMS4wODItMy44ODQgMS43OTUtNy4wNjYgMS43OTVjLTMuMTg0IDAtNS44MDUtLjcxNC03LjA2OC0xLjc5N3YyLjM2OWMwIDEuMTY4IDIuOTAzIDIuNDcgNy4wNjggMi40N2M0LjE2IDAgNy4wNi0xLjMgNy4wNjYtMi40NjZtLjAwMS02Ljc2NWwuODE3LS4wMDV2LjAwNWMwIC41MTctLjI1OC45OTgtLjc1IDEuNDQxYy42MDEuNTQuNzUgMS4wNzEuNzUgMS40NDlhMTY2MiAxNjYyIDAgMCAwIDAgMy44N2MwIDEuODgxLTMuMzg5IDMuMy03Ljg4NCAzLjNjLTQuNDcxIDAtNy44NDYtMS40MDQtNy44OC0zLjI3YTU4MyA1ODMgMCAwIDEtLjAwMy0zLjkwOWMuMDAxLS4zNzUuMTUtLjkuNzQ1LTEuNDM3Yy0uNTkyLS41MzgtLjc0My0xLjA2Mi0uNzQ2LTEuNDM1di0zLjg5MmMuMDAyLS4zNzcuMTUzLS45MDMuNzQ3LTEuNDM4Yy0uNTkzLS41NC0uNzQ0LTEuMDYyLS43NDctMS40MzVjMC0xLjM1Ny0uMDAyLTIuNzM1LjAwMi0zLjg5N0MxLjY3NCAxLjQxMiA1LjA1NiAwIDkuNTQgMGMyLjE1OSAwIDQuMjMzLjM1NiA1LjY4OS45NzRsLS4zMTUuNzY2Yy0xLjM2LS41OC0zLjMxOS0uOTEtNS4zNzQtLjkxYy00LjE2NSAwLTcuMDY3IDEuMy03LjA2NyAyLjQ3YzAgMS4xNjggMi45MDIgMi40NyA3LjA2NyAyLjQ3Yy4xMTUgMCAuMjIyIDAgLjMzNC0uMDA1bC4wMzMuODI4cS0uMTgzLjAwOC0uMzY3LjAwNmMtMy4xODQgMC01LjgwNS0uNzE0LTcuMDY4LTEuNzk4djIuMzhjLjAwNS40NS40NS44NDMuODIxIDEuMDkzYzEuMTE2LjczNiAzLjExNCAxLjIzOSA1LjM0IDEuMzQybC0uMDM3LjgyOWMtMi4yNTQtLjEwNS00LjIzLS41OS01LjUtMS4zMzJjLS4zMTguMjQ1LS42MjMuNTczLS42MjMuOTUyYzAgMS4xNjggMi45MDIgMi40NyA3LjA2NyAyLjQ3cS42MTYgMCAxLjIwMy0uMDQybC4wNi44MjZxLS42MTcuMDQ1LTEuMjYzLjA0NWMtMy4xODQgMC01LjgwNS0uNzEzLTcuMDY4LTEuNzk3djIuMzY4Yy4wMDUuNDYyLjQ0OS44NTUuODIxIDEuMTA0YzEuMjc1Ljg0MiAzLjY3IDEuMzY2IDYuMjQ3IDEuMzY2aC4xODJ2LjgzSDkuNTRjLTIuNjIgMC00Ljk5LS41MDctNi40NDQtMS4zNTljLS4zMTcuMjQ1LS42MjMuNTc0LS42MjMuOTU0YzAgMS4xNjggMi45MDIgMi40NyA3LjA2NyAyLjQ3YzQuMTU5IDAgNy4wNTgtMS4yOTggNy4wNjYtMi40NjV2LS4wMDdjMC0uMzc3LS4zMDMtLjcwNS0uNjItLjk0OGE2IDYgMCAwIDEtLjY2Mi4zMzZsLS4zMTYtLjc2NHEuNDUxLS4xOTIuNzc2LS40MTJjLjM3Ni0uMjU0LjgyMy0uNjUxLjgyMy0xLjFtNC4zNzctNi45MTVoLTIuNzE3YS40LjQgMCAwIDEtLjMzMi0uMTczYS40Mi40MiAwIDAgMS0uMDU1LS4zNzVsMS4yMDQtMy41OTdoLTUuNDAzbC0yLjU4MyA0Ljk3NGgyLjYyM2MuMTI4IDAgLjI0OC4wNi4zMjUuMTY0YS40Mi40MiAwIDAgMSAuMDY5LjM2bC0yLjI0OSA4LjM2NXptMS4yNDktLjEyOGwtMTAuODkgMTEuNjA4YS40MS40MSAwIDAgMS0uNDk4LjA3NWEuNDIuNDIgMCAwIDEtLjE5Mi0uNDcxbDIuNTM0LTkuNDI2aC0yLjc2NmEuNDEuNDEgMCAwIDEtLjM0OS0uMmEuNDIuNDIgMCAwIDEtLjAxMi0uNDA3bDMuMDE0LTUuODA0YS40MS40MSAwIDAgMSAuMzYtLjIyMmg2LjIyYy4xMzIgMCAuMjU2LjA2NS4zMzIuMTc0YS40Mi40MiAwIDAgMSAuMDU1LjM3NGwtMS4yMDQgMy41OThoMy4xYy4xNjQgMCAuMzEuMDk5LjM3NS4yNTFhLjQyLjQyIDAgMCAxLS4wOC40NXpNMy4wODUgMjAuNzIzYTggOCAwIDAgMCAxLjcyLjcybC4yMzMtLjc5NGE3LjMgNy4zIDAgMCAxLTEuNTQ2LS42NDV6bTEuNzItNS45ODRsLjIzMy0uNzk1YTcuMyA3LjMgMCAwIDEtMS41NDYtLjY0NmwtLjQwNy43MmE4IDggMCAwIDAgMS43Mi43MnptLTEuNzItNy40MjdsLjQwNy0uNzE5Yy40MTguMjQ0LjkzOS40NjIgMS41NDYuNjQ2bC0uMjMyLjc5NGE4IDggMCAwIDEtMS43Mi0uNzJaIi8%2BPC9zdmc%2B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **AI**
 
