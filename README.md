@@ -1,37 +1,36 @@
 <div align="center">
 <a id="back-to-top"></a>
 
-![Björn Lagerblad portfolio banner](assets/frontcard2.png)
+<img src="assets/banner.svg" alt="Björn Lagerblad, Fullstack Developer, Gothenburg, Sweden" width="100%">
 
 # Hi there, I'm Björn 👋
-### Fullstack Developer · AI
 
-I build and run software in production, including AI features.
+![Profile views](https://komarev.com/ghpvc/?username=Markofbear&style=for-the-badge&color=f0a030&label=PAGE%20VIEWS)
 
-![Profile views](https://komarev.com/ghpvc/?username=Markofbear)
+<a href="assets/BjornLagerbladCV.pdf"><img src="assets/btn-cv.svg" alt="Download CV (PDF)" height="46"></a>&nbsp;<a href="https://www.linkedin.com/in/bjorn-lagerblad"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;<a href="mailto:lagerblad.bjorn@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
 
-[![Download CV](https://img.shields.io/badge/Download_CV_(PDF)-1c1e20?style=for-the-badge)](assets/BjornLagerbladCV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3Yy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1YzMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNiAyLjA2IDAgMCAxLTIuMDYzLTIuMDY1YTIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0ek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/bjorn-lagerblad)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lagerblad.bjorn@gmail.com)
+📧 [lagerblad.bjorn@gmail.com](mailto:lagerblad.bjorn@gmail.com) · 📱 +46 73 030 50 28 · 📍 Gothenburg, Sweden
 
-**[About](#about-me) · [Experience](#experience) · [Projects](#projects) · [Skills](#skills) · [Resume](#Resume) · [Contact](#contact-me)**
+**[About](#about-me) · [Experience](#experience) · [Skills](#skills) · [Resume](#Resume) · [Contact](#contact-me)**
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 
 <h2 id="about-me">🧑‍💼 About me</h2>
 
-Fullstack developer who builds and runs software in production, including AI features. I work as a consultant at Henrikssons Advice & Consulting, where I build and operate a production planning system for a client in the marine industry. Before that I built AI voice agents and RAG-based chat assistants at LeadCaller.
+Fullstack developer who builds and runs software in production, including AI features. I've built AI voice agents and RAG-based chat assistants, and a production planning system that runs live for a client in the marine industry.
 
 Before tech I spent many years in hospitality and worked my way up to managing a large part of a restaurant chain. I trained its staff in customer service, stress management and communication, and later started my own bar. I'm at ease talking to clients and management, and I keep calm when something breaks in production. I also bring energy and a good laugh to the teams I work in.
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="experience">⭐ Experience</h2>
 
 ### Fullstack Developer / Consultant, Henrikssons Advice & Consulting AB · 2026 to present
 
-Sole developer on a production planning system for a marine service company. It replaced whiteboard planning and has been in production since September 2026. I own everything from requirements to operations.
+Consulting assignments for several clients. For one of them I built a production planning system as the sole developer. It replaced whiteboard planning and went live in September 2026.
 
 - Integrated with the client's existing work-order system over its REST API with a sync every 20 seconds, so staff kept their current routines.
 - Built real-time views for a break-room display, desktop and mobile. A change reaches every screen within one second.
@@ -65,12 +64,15 @@ Sole developer on a production planning system for a marine service company. It 
 
 <sub>[↑ Back to top](#back-to-top)</sub>
 
----
+<!-- Projects section hidden for now. Remove this comment wrapper to show it again.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="projects">💼 Projects</h2>
 
 ### 🎙️ Podcast Generator
 
-> Turn any Wikipedia article, PDF, YouTube video, or text file into a multi-speaker, AI-narrated podcast.
+> Turns a Wikipedia article, PDF, YouTube video or text file into a podcast with several AI voices.
 
 <div align="center">
 
@@ -80,15 +82,15 @@ Sole developer on a production planning system for a marine service company. It 
 
 A desktop app in Python and PySide6. It extracts the text from a source, has Gemini write a dialogue between several speakers, and lets you edit the script before it's voiced. You can pick OpenAI, ElevenLabs or Google for the voices, and it mixes in background music. The heavy work runs on background threads so the GUI stays responsive.
 
-**[▶ Watch the demo](https://www.linkedin.com/posts/bjorn-lagerblad_opentowork-opentowork-python-activity-7328735576239603713-BCtP)** · **[View code](https://github.com/Markofbear/Podcast-Generator)**
+[▶ Watch the demo](https://www.linkedin.com/posts/bjorn-lagerblad_opentowork-opentowork-python-activity-7328735576239603713-BCtP) · [View code](https://github.com/Markofbear/Podcast-Generator)
 
 **More projects**
 
 | Project | What it is | |
 | --- | --- | --- |
-| **[YouTube Data App][fullstack]** | Live Streamlit app with database-backed YouTube analytics | [🔗 Live][fullstack] |
-| **[Degree project][thesis]** | Python file-sorting automation tool, with in-depth written thesis documentation | [Code][thesis] |
-| **[Manim Animations][manim]** | Teaching animations with Bézier curves & design | [Code][manim] |
+| [YouTube Data App][fullstack] | Streamlit app that analyzes YouTube data stored in a database | [🔗 Live][fullstack] |
+| [Degree project][thesis] | File-sorting automation tool in Python, with a written thesis | [Code][thesis] |
+| [Manim Animations][manim] | Teaching animations of Bézier curves, made in Manim | [Code][manim] |
 
 [manim]: https://github.com/Markofbear/ManimTraining
 [fullstack]: https://bjornyoutubedata.streamlit.app/
@@ -96,7 +98,11 @@ A desktop app in Python and PySide6. It extracts the text from a source, has Gem
 
 <sub>[↑ Back to top](#back-to-top)</sub>
 
----
+-->
+
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="skills">🧑‍💻 Technical skills</h2>
 
 **Core stack**
@@ -107,7 +113,7 @@ A desktop app in Python and PySide6. It extracts the text from a source, has Gem
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02Ljc2MyAxMC4wMzZxLjAwMi40NDYuMDg4LjcxYy4wNjQuMTc2LjE0NC4zNjguMjU2LjU3NmMuMDQuMDYzLjA1Ni4xMjcuMDU2LjE4M3EuMDAyLjEyLS4xNTIuMjRsLS41MDMuMzM1YS40LjQgMCAwIDEtLjIwOC4wNzJxLS4xMi0uMDAyLS4yMzktLjExMmEyLjUgMi41IDAgMCAxLS4yODctLjM3NWE2IDYgMCAwIDEtLjI0OC0uNDcxcS0uOTM0IDEuMTAxLTIuMzQ3IDEuMTAxYy0uNjcgMC0xLjIwNS0uMTkxLTEuNTk2LS41NzRxLS41ODgtLjU3NS0uNTktMS41MzNjMC0uNjc4LjIzOS0xLjIzLjcyNi0xLjY0NGMuNDg3LS40MTUgMS4xMzMtLjYyMyAxLjk1NS0uNjIzYy4yNzIgMCAuNTUxLjAyNC44NDYuMDY0Yy4yOTYuMDQuNi4xMDQuOTE4LjE3NnYtLjU4M3EtLjAwMS0uOTA5LS4zNzUtMS4yNzdjLS4yNTUtLjI0OC0uNjg2LS4zNjctMS4zLS4zNjdjLS4yOCAwLS41NjguMDMxLS44NjMuMTAzcS0uNDQzLjEwNi0uODYyLjI3MmEyIDIgMCAwIDEtLjI4LjEwNGEuNS41IDAgMCAxLS4xMjcuMDIzcS0uMTY4LjAwMi0uMTY4LS4yNDd2LS4zOTFjMC0uMTI4LjAxNi0uMjI0LjA1Ni0uMjhhLjYuNiAwIDAgMSAuMjI0LS4xNjdhNC42IDQuNiAwIDAgMSAxLjAwNS0uMzZhNC44IDQuOCAwIDAgMSAxLjI0Ni0uMTUxYy45NSAwIDEuNjQ0LjIxNiAyLjA5MS42NDdxLjY2LjY0NS42NjIgMS45NjN2Mi41ODZ6bS0zLjI0IDEuMjE0Yy4yNjMgMCAuNTM0LS4wNDguODIyLS4xNDRhMS44IDEuOCAwIDAgMCAuNzU4LS41MWExLjMgMS4zIDAgMCAwIC4yNzItLjUxMmMuMDQ3LS4xOTEuMDgtLjQyMy4wOC0uNjk0di0uMzM1YTcgNyAwIDAgMC0uNzM1LS4xMzZhNiA2IDAgMCAwLS43NS0uMDQ4Yy0uNTM1IDAtLjkyNi4xMDQtMS4xOS4zMmMtLjI2My4yMTUtLjM5LjUxOC0uMzkuOTE3YzAgLjM3NS4wOTUuNjU1LjI5NS44NDZjLjE5MS4yLjQ3LjI5Ni44MzguMjk2bTYuNDEuODYyYy0uMTQ0IDAtLjI0LS4wMjQtLjMwNC0uMDhjLS4wNjQtLjA0OC0uMTItLjE2LS4xNjgtLjMxMUw3LjU4NiA1LjU1YTEuNCAxLjQgMCAwIDEtLjA3Mi0uMzJjMC0uMTI4LjA2NC0uMi4xOTEtLjJoLjc4M3EuMjI3LS4wMDEuMzEuMDhjLjA2NS4wNDguMTEzLjE2LjE2LjMxMmwxLjM0MiA1LjI4NGwxLjI0NS01LjI4NHEuMDU4LS4yNC4xNTEtLjMxMmEuNTUuNTUgMCAwIDEgLjMyLS4wOGguNjM4Yy4xNTIgMCAuMjU2LjAyNS4zMi4wOGMuMDYzLjA0OC4xMi4xNi4xNTEuMzEybDEuMjYxIDUuMzQ4bDEuMzgxLTUuMzQ4cS4wNzQtLjI0LjE2LS4zMTJhLjUyLjUyIDAgMCAxIC4zMTEtLjA4aC43NDNjLjEyNyAwIC4yLjA2NS4yLjJjMCAuMDQtLjAwOS4wOC0uMDE3LjEyOGExIDEgMCAwIDEtLjA1Ni4ybC0xLjkyMyA2LjE3cS0uMDcyLjI0LS4xNjguMzExYS41LjUgMCAwIDEtLjMwMy4wOGgtLjY4N2MtLjE1MSAwLS4yNTUtLjAyNC0uMzItLjA4Yy0uMDYzLS4wNTYtLjExOS0uMTYtLjE1LS4zMmwtMS4yMzgtNS4xNDhsLTEuMjMgNS4xNGMtLjA0LjE2LS4wODcuMjY0LS4xNS4zMmMtLjA2NS4wNTYtLjE3Ny4wOC0uMzIuMDh6bTEwLjI1Ni4yMTVjLS40MTUgMC0uODMtLjA0OC0xLjIyOS0uMTQzYy0uMzk5LS4wOTYtLjcxLS4yLS45MTgtLjMyYy0uMTI4LS4wNzEtLjIxNS0uMTUxLS4yNDctLjIyM2EuNi42IDAgMCAxLS4wNDgtLjIyNHYtLjQwN2MwLS4xNjcuMDY0LS4yNDcuMTgzLS4yNDdxLjA3MiAwIC4xNDQuMDI0Yy4wNDguMDE2LjEyLjA0OC4yLjA4cS40MDguMTgxLjg3OC4yNzljLjMxOS4wNjQuNjMuMDk2Ljk1LjA5NmMuNTAyIDAgLjg5NC0uMDg4IDEuMTY1LS4yNjRhLjg2Ljg2IDAgMCAwIC40MTUtLjc1OGEuNzguNzggMCAwIDAtLjIxNS0uNTU5Yy0uMTQ0LS4xNTEtLjQxNi0uMjg3LS44MDctLjQxNWwtMS4xNTctLjM2Yy0uNTgzLS4xODMtMS4wMTQtLjQ1NC0xLjI3Ny0uODEzYTEuOSAxLjkgMCAwIDEtLjQtMS4xNThxMC0uNTAyLjIxNi0uODg2Yy4xNDQtLjI1NS4zMzUtLjQ3OS41NzUtLjY1NGMuMjQtLjE4NC41MS0uMzIuODMtLjQxNWMuMzItLjA5Ni42NTUtLjEzNiAxLjAwNi0uMTM2Yy4xNzUgMCAuMzU5LjAwOC41MzUuMDMyYy4xODMuMDI0LjM1LjA1Ni41MTguMDg4cS4yNC4wNTguNDU1LjEyN3EuMjE2LjA3Mi4zMzYuMTQ0YS43LjcgMCAwIDEgLjI0LjJhLjQzLjQzIDAgMCAxIC4wNzEuMjYzdi4zNzVxLS4wMDIuMjU0LS4xODQuMjU2YS44LjggMCAwIDEtLjMwMy0uMDk2YTMuNjUgMy42NSAwIDAgMC0xLjUzMi0uMzExYy0uNDU1IDAtLjgxNS4wNzEtMS4wNjIuMjIzcy0uMzc1LjM4My0uMzc1LjcxYzAgLjIyNC4wOC40MTYuMjQuNTY3Yy4xNTkuMTUyLjQ1NC4zMDQuODc3LjQ0bDEuMTM0LjM1OGMuNTc0LjE4NC45OS40NCAxLjIzNy43NjdzLjM2Ny43MDIuMzY3IDEuMTE3YzAgLjM0My0uMDcyLjY1NS0uMjA3LjkyNmEyLjIgMi4yIDAgMCAxLS41ODMuNzAzYy0uMjQ4LjItLjU0My4zNDMtLjg4Ni40NDdjLS4zNi4xMTEtLjczNC4xNjctMS4xNDIuMTY3bTEuNTA5IDMuODhjLTIuNjI2IDEuOTQtNi40NDIgMi45NjktOS43MjIgMi45NjljLTQuNTk4IDAtOC43NC0xLjctMTEuODctNC41MjZjLS4yNDctLjIyMy0uMDI0LS41MjcuMjcyLS4zNTFjMy4zODQgMS45NjMgNy41NTkgMy4xNTMgMTEuODc3IDMuMTUzYzIuOTE0IDAgNi4xMTQtLjYwNyA5LjA2LTEuODUyYy40MzktLjIuODE0LjI4Ny4zODMuNjA3bTEuMDk0LTEuMjQ2Yy0uMzM2LS40My0yLjIyLS4yMDctMy4wNzQtLjEwM2MtLjI1NS4wMzItLjI5NS0uMTkyLS4wNjMtLjM2YzEuNS0xLjA1MyAzLjk2Ny0uNzUgNC4yNTQtLjM5OWMuMjg3LjM2LS4wOCAyLjgyNi0xLjQ4NSA0LjAwN2MtLjIxNS4xODQtLjQyMy4wODgtLjMyNy0uMTUxYy4zMi0uNzkgMS4wMy0yLjU3LjY5NS0yLjk5NCIvPjwvc3ZnPg%3D%3D)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xNi42MDYgMjAuNzA1di0yLjM3MWMtMS4yNjMgMS4wODItMy44ODQgMS43OTUtNy4wNjYgMS43OTVjLTMuMTg0IDAtNS44MDUtLjcxNC03LjA2OC0xLjc5N3YyLjM2OWMwIDEuMTY4IDIuOTAzIDIuNDcgNy4wNjggMi40N2M0LjE2IDAgNy4wNi0xLjMgNy4wNjYtMi40NjZtLjAwMS02Ljc2NWwuODE3LS4wMDV2LjAwNWMwIC41MTctLjI1OC45OTgtLjc1IDEuNDQxYy42MDEuNTQuNzUgMS4wNzEuNzUgMS40NDlhMTY2MiAxNjYyIDAgMCAwIDAgMy44N2MwIDEuODgxLTMuMzg5IDMuMy03Ljg4NCAzLjNjLTQuNDcxIDAtNy44NDYtMS40MDQtNy44OC0zLjI3YTU4MyA1ODMgMCAwIDEtLjAwMy0zLjkwOWMuMDAxLS4zNzUuMTUtLjkuNzQ1LTEuNDM3Yy0uNTkyLS41MzgtLjc0My0xLjA2Mi0uNzQ2LTEuNDM1di0zLjg5MmMuMDAyLS4zNzcuMTUzLS45MDMuNzQ3LTEuNDM4Yy0uNTkzLS41NC0uNzQ0LTEuMDYyLS43NDctMS40MzVjMC0xLjM1Ny0uMDAyLTIuNzM1LjAwMi0zLjg5N0MxLjY3NCAxLjQxMiA1LjA1NiAwIDkuNTQgMGMyLjE1OSAwIDQuMjMzLjM1NiA1LjY4OS45NzRsLS4zMTUuNzY2Yy0xLjM2LS41OC0zLjMxOS0uOTEtNS4zNzQtLjkxYy00LjE2NSAwLTcuMDY3IDEuMy03LjA2NyAyLjQ3YzAgMS4xNjggMi45MDIgMi40NyA3LjA2NyAyLjQ3Yy4xMTUgMCAuMjIyIDAgLjMzNC0uMDA1bC4wMzMuODI4cS0uMTgzLjAwOC0uMzY3LjAwNmMtMy4xODQgMC01LjgwNS0uNzE0LTcuMDY4LTEuNzk4djIuMzhjLjAwNS40NS40NS44NDMuODIxIDEuMDkzYzEuMTE2LjczNiAzLjExNCAxLjIzOSA1LjM0IDEuMzQybC0uMDM3LjgyOWMtMi4yNTQtLjEwNS00LjIzLS41OS01LjUtMS4zMzJjLS4zMTguMjQ1LS42MjMuNTczLS42MjMuOTUyYzAgMS4xNjggMi45MDIgMi40NyA3LjA2NyAyLjQ3cS42MTYgMCAxLjIwMy0uMDQybC4wNi44MjZxLS42MTcuMDQ1LTEuMjYzLjA0NWMtMy4xODQgMC01LjgwNS0uNzEzLTcuMDY4LTEuNzk3djIuMzY4Yy4wMDUuNDYyLjQ0OS44NTUuODIxIDEuMTA0YzEuMjc1Ljg0MiAzLjY3IDEuMzY2IDYuMjQ3IDEuMzY2aC4xODJ2LjgzSDkuNTRjLTIuNjIgMC00Ljk5LS41MDctNi40NDQtMS4zNTljLS4zMTcuMjQ1LS42MjMuNTc0LS42MjMuOTU0YzAgMS4xNjggMi45MDIgMi40NyA3LjA2NyAyLjQ3YzQuMTU5IDAgNy4wNTgtMS4yOTggNy4wNjYtMi40NjV2LS4wMDdjMC0uMzc3LS4zMDMtLjcwNS0uNjItLjk0OGE2IDYgMCAwIDEtLjY2Mi4zMzZsLS4zMTYtLjc2NHEuNDUxLS4xOTIuNzc2LS40MTJjLjM3Ni0uMjU0LjgyMy0uNjUxLjgyMy0xLjFtNC4zNzctNi45MTVoLTIuNzE3YS40LjQgMCAwIDEtLjMzMi0uMTczYS40Mi40MiAwIDAgMS0uMDU1LS4zNzVsMS4yMDQtMy41OTdoLTUuNDAzbC0yLjU4MyA0Ljk3NGgyLjYyM2MuMTI4IDAgLjI0OC4wNi4zMjUuMTY0YS40Mi40MiAwIDAgMSAuMDY5LjM2bC0yLjI0OSA4LjM2NXptMS4yNDktLjEyOGwtMTAuODkgMTEuNjA4YS40MS40MSAwIDAgMS0uNDk4LjA3NWEuNDIuNDIgMCAwIDEtLjE5Mi0uNDcxbDIuNTM0LTkuNDI2aC0yLjc2NmEuNDEuNDEgMCAwIDEtLjM0OS0uMmEuNDIuNDIgMCAwIDEtLjAxMi0uNDA3bDMuMDE0LTUuODA0YS40MS40MSAwIDAgMSAuMzYtLjIyMmg2LjIyYy4xMzIgMCAuMjU2LjA2NS4zMzIuMTc0YS40Mi40MiAwIDAgMSAuMDU1LjM3NGwtMS4yMDQgMy41OThoMy4xYy4xNjQgMCAuMzEuMDk5LjM3NS4yNTFhLjQyLjQyIDAgMCAxLS4wOC40NXpNMy4wODUgMjAuNzIzYTggOCAwIDAgMCAxLjcyLjcybC4yMzMtLjc5NGE3LjMgNy4zIDAgMCAxLTEuNTQ2LS42NDV6bTEuNzItNS45ODRsLjIzMy0uNzk1YTcuMyA3LjMgMCAwIDEtMS41NDYtLjY0NmwtLjQwNy43MmE4IDggMCAwIDAgMS43Mi43MnptLTEuNzItNy40MjdsLjQwNy0uNzE5Yy40MTguMjQ0LjkzOS40NjIgMS41NDYuNjQ2bC0uMjMyLjc5NGE4IDggMCAwIDEtMS43Mi0uNzJaIi8%2BPC9zdmc%2B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
@@ -139,24 +145,25 @@ A desktop app in Python and PySide6. It extracts the text from a source, has Gem
 
 <sub>[↑ Back to top](#back-to-top)</sub>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="Resume">📓 Resume</h2>
 
 <div align="center">
 
-![Björn Lagerblad CV](assets/BjornLagerbladCV.png)
+<a href="assets/BjornLagerbladCV.pdf"><img src="assets/BjornLagerbladCV.png" alt="Björn Lagerblad CV" width="420"></a>
 
-📄 **[Download CV (PDF)](assets/BjornLagerbladCV.pdf)**
+<a href="assets/BjornLagerbladCV.pdf"><img src="assets/btn-cv.svg" alt="Download CV (PDF)" height="46"></a>
 
 </div>
 
 <sub>[↑ Back to top](#back-to-top)</sub>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="education">🎓 Education</h2>
 
-**Object-Oriented Programming with a focus on AI**, NBI Handelsakademin · 2023-2025
-Higher Vocational Education diploma, 400 HVE credits.
+**Object-Oriented Programming with a focus on AI**, NBI Handelsakademin · 2023-2025<br>Higher Vocational Education diploma, 400 HVE credits.
 
 <details>
 <summary>📚 Course list</summary>
@@ -181,15 +188,18 @@ Higher Vocational Education diploma, 400 HVE credits.
 
 <sub>[↑ Back to top](#back-to-top)</sub>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="contact-me">🤝 Get in touch</h2>
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/bjorn-lagerblad) · [**GitHub**](https://github.com/Markofbear) · [**Email**](mailto:lagerblad.bjorn@gmail.com) · Gothenburg, Sweden
+<a href="https://www.linkedin.com/in/bjorn-lagerblad"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>&nbsp;<a href="https://github.com/Markofbear"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>&nbsp;<a href="mailto:lagerblad.bjorn@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
+
+📧 [lagerblad.bjorn@gmail.com](mailto:lagerblad.bjorn@gmail.com) · 📱 +46 73 030 50 28 · 📍 Gothenburg, Sweden
 
 <br><br>
 
-<img src="assets/good_code_xkcd.png" alt="xkcd: the classic 'my code's compiling' excuse to take a break" width="320">
+<img src="assets/good_code_xkcd.png" alt="xkcd: the classic 'my code's compiling' excuse to take a break" width="220">
 
 </div>

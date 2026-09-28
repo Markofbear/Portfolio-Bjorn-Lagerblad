@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="46" viewBox="0 0 186 46" role="img" aria-label="Download CV">
+  <rect x="1" y="1" width="184" height="44" rx="10" fill="#1f2023" stroke="#f0a030" stroke-opacity="0.55" stroke-width="1.5"/>
+  <g transform="translate(20 11)"><path d="M7 3h7l5 5v13H7z M14 3v5h5 M10 13h6 M10 17h6" fill="none" stroke="#f0a030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="54" y="29" font-family="'Segoe UI', 'Helvetica Neue', Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#fff">Download CV</text>
+</svg>
